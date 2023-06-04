@@ -1,0 +1,21 @@
+{
+    "name": "Next Lang",
+    "address": "123 Villa Carlos Paz",
+    "courses": {
+        "ingles basico": {
+            "duracion semanas": 4,
+            "precio": 400 
+        },
+
+        "ingles abanzado": {
+            "duracion semanas": 20,
+            "precio": 400
+        },
+
+        "italiano basico": {
+            "duracion semanas": 5,
+            "precio": 120
+        }
+    },
+    "phone numbers": [156734756, 154456234] 
+}
