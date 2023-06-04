@@ -1,0 +1,91 @@
+{
+    "name": "the wizards",
+    "integrantes": [
+      {
+        "name": "Facundo Tiede",
+        "charge": "admin",
+        "active": false,
+        "dircord": "#"
+      },
+      {
+        "name": "IsaacDavidS",
+        "charge": "moderator",
+        "active": false
+      },
+      {
+        "name": "Maru",
+        "charge": "moderator",
+        "active": true
+      },
+      {
+        "name": "Ibrahim",
+        "charge": "ordinary",
+        "active": true
+      },
+      {
+        "name": "lik",
+        "charge": "ordinary",
+        "active": true
+      },
+      {
+        "name": "migueflorez10",
+        "charge": "ordinary",
+        "active": true
+      },
+      {
+        "name": "virusJAC",
+        "charge": "ordinary",
+        "active": true
+      },
+      {
+        "name": "Catalina Hernandez",
+        "charge": "ordinary",
+        "active": false
+      },
+      {
+        "name": "Cristian A. Ortega",
+        "charge": "ordinary",
+        "active": false
+      },
+      {
+        "name": "Enrique Cocom",
+        "charge": "ordinary",
+        "active": false
+      },
+      {
+        "name": "Gabriel Quiroga",
+        "charge": "ordinary",
+        "active": false
+      },
+      {
+        "name": "Ixam",
+        "charge": "ordinary",
+        "active": false
+      },
+      {
+        "name": "JersonVe",
+        "charge": "ordinary",
+        "active": false
+      },
+      {
+        "name": "Nicolas7",
+        "charge": "ordinary",
+        "active": false
+      },
+      {
+        "name": "Rango",
+        "charge": "ordinary",
+        "active": false
+      },
+      {
+        "name": "Ricardocuellar",
+        "charge": "ordinary",
+        "active": false
+      },
+      {
+        "name": "will fred",
+        "charge": "ordinary",
+        "active": false
+      }
+    ]
+}
