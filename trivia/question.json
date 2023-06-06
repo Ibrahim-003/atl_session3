@@ -1,0 +1,11 @@
+{
+  "category": "Cultura general",
+  "question": "¿Quien descubrio la penicilina?",
+  "options": [
+    "Howard Florey",
+    "Alexander Freming",
+    "Ernt Chain"
+  ],
+  "answer": 1,
+  "explanation": "La penicilina fue descubierta por Alexander Fleming, un científico británico, en 1928. Mientras trabajaba en su laboratorio del Hospital St. Mary's en Londres, Fleming observó que una colonia de moho llamada Penicillium notatum había contaminado una de sus placas de cultivo bacteriano. Fleming notó que alrededor del moho, las bacterias no crecían, lo que indicaba que el moho producía una sustancia que tenía propiedades antibacterianas."
+}
